@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIValidationExample", "DIValidationExample\DIValidationExample.csproj", "{B78BA485-041B-44A6-B65F-F212D60380A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIValidationExample.Tests", "DIValidationExample.Tests\DIValidationExample.Tests.csproj", "{32DD2BFD-2B47-4875-A71E-E3250F4B81FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78BA485-041B-44A6-B65F-F212D60380A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78BA485-041B-44A6-B65F-F212D60380A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78BA485-041B-44A6-B65F-F212D60380A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78BA485-041B-44A6-B65F-F212D60380A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DD2BFD-2B47-4875-A71E-E3250F4B81FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DD2BFD-2B47-4875-A71E-E3250F4B81FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DD2BFD-2B47-4875-A71E-E3250F4B81FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DD2BFD-2B47-4875-A71E-E3250F4B81FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
